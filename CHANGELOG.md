@@ -1,10 +1,3 @@
-# [3.5.0](https://github.com/SlicedWeb/react-bottom-spring-sheet/compare/v3.4.1...v3.5.0) (2022-07-01)
-
-
-### Features
-
-* **comment:** gone ([eb33486](https://github.com/SlicedWeb/react-bottom-spring-sheet/commit/eb334867ec44b95f6dc72ec470a272c147c76ada))
-
 ## [3.4.1](https://github.com/stipsan/react-spring-bottom-sheet/compare/v3.4.0...v3.4.1) (2022-06-01)
 
 

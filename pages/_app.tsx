@@ -8,11 +8,15 @@ import { debugging } from '../src/utils'
 import '../docs/style.css'
 import '../src/style.css'
 
+// Setup xstate debugging, but only when in dev mode
 if (debugging) {
   inspect({
     url: 'https://statecharts.io/inspect',
     iframe: false,
   })
+  console.log(
+    '@xstate/inspect setup and running! Open https://statecharts.io/inspect in another tab to see the nitty gritty details. It also works with the Redux DevTools, but it lacks chart visualization.'
+  )
 }
 
 export async function getStaticProps() {
