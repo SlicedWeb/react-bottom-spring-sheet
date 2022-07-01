@@ -1,3 +1,5 @@
+# This is a temp repo for hosting a working version of the package while we wait for the main package to update.
+
 [![npm stat](https://img.shields.io/npm/dm/react-spring-bottom-sheet.svg?style=flat-square)](https://npm-stat.com/charts.html?package=react-spring-bottom-sheet)
 [![npm version](https://img.shields.io/npm/v/react-spring-bottom-sheet.svg?style=flat-square)](https://www.npmjs.com/package/react-spring-bottom-sheet)
 [![gzip size][gzip-badge]][unpkg-dist]
