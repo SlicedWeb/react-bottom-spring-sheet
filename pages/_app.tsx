@@ -14,9 +14,6 @@ if (debugging) {
     url: 'https://statecharts.io/inspect',
     iframe: false,
   })
-  console.log(
-    '@xstate/inspect setup and running! Open https://statecharts.io/inspect in another tab to see the nitty gritty details. It also works with the Redux DevTools, but it lacks chart visualization.'
-  )
 }
 
 export async function getStaticProps() {
